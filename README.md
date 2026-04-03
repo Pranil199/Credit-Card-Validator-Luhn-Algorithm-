@@ -1,4 +1,4 @@
-# 💳 Credit Card Validator (Luhn Algorithm))
+# 💳 Credit Card Validator (Luhn Algorithm)
 
 A simple, interactive Python script that validates credit card numbers using the industry-standard **Luhn Algorithm** (Modulus 10). 
 
